@@ -1,6 +1,7 @@
 {
   "name": "project",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo 'Привет!'",
@@ -17,17 +18,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "browser-sync": "^3.0.3",
+    "browser-sync": "^2.29.1",
     "del": "^6.0.0",
-    "gulp": "^5.0.0",
+    "gulp": "^4.0.2",
     "gulp-concat-css": "^3.1.0",
     "gulp-plumber": "^1.2.1",
-    "prettier": "^3.5.3",
-    "stylelint": "^16.16.0"
-  },
-  "dependencies": {
-    "stylelint-scss": "^6.11.1"
+    "prettier": "^2.8.7",
+    "stylelint": "^15.4.0"
   }
 }
